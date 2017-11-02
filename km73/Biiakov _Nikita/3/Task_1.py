@@ -1,0 +1,7 @@
+print("Програма для отримання суми 3 чисел")
+print("Введіть значення x,y,z")
+x=int(input())
+y=int(input())
+z=int(input())
+S=(x+y+z)
+print("Сума =",S)

@@ -1,0 +1,6 @@
+print("Кількість учнів в кожній з групп")
+x=int(input())
+y=int(input())
+z=int(input())
+d=int((x+y+z)/2)
+print("Кількість столів=",d)
